@@ -16,7 +16,7 @@
 Anda dapat setting Bundlr Node Anda dalam hitungan menit menggunakan skrip otomatis di bawah ini.
 
 ```
-wget -O bundlr.sh https://raw.githubusercontent.com/jericko8/BUNDLR/main/bundlr.sh && chmod +x bundlr.sh && ./bundlr.sh
+wget -O testnetbundlr.sh https://raw.githubusercontent.com/jericko8/tetstnetbundlr/main/testnetbundlr.sh && chmod +x testnetbundlr.sh && ./testnetbundlr.sh
 ```
 
 ### Langkah-langkah setelah Instalasi
